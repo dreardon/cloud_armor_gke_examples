@@ -1,3 +1,5 @@
+![ga4](https://www.google-analytics.com/collect?v=2&cid=1&sid=1&tid=G-564TXM315H&en=page_view&dl=cloudarmorgkeexamples&dt=readme.md)
+
 # Cloud Armor Integration Examples with GKE
 
 Google Cloud Armor helps you protect your Google Cloud deployments from multiple types of threats, including distributed denial-of-service (DDoS) attacks and application attacks like cross-site scripting (XSS) and SQL injection (SQLi). [Kubernetes Ingress](https://cloud.google.com/kubernetes-engine/docs/how-to/ingress-configuration) can be [configured](https://cloud.google.com/armor/docs/integrating-cloud-armor#with_ingress) to work with Cloud Armor.
